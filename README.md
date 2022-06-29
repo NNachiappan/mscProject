@@ -1,6 +1,8 @@
 # Adversarial Training for Attacks on Monocular Depth Estimation Networks
 
-Code for dissertation project looking at defending imperceptible attacks on images that fool ML models using different training techniques.
+Adversarial attacks are imperceptible attacks that can be performed on images to fool an ML model into predicting incorrectly.
+The disseratation focuses on defending these attacks using a method of training called adversarial training, specifically on depth estimation networks on the KITTI dataset(road scene dataset).
+
 See figure 1 below.
 
 <img src="https://raw.githubusercontent.com/NNachiappan/mscProject/main/fig1.png" width="350">
